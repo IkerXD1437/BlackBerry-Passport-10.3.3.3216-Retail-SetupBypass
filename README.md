@@ -28,3 +28,44 @@
 * **Executable:** `Passport_10.3.3.3216_Retail_SetupBypass_by_IkerXD1437.exe`
 ```text
 944C04FE7F3112081BE368D0A3C523170A3621B1F6D784EDA9F6502A760221DB
+```
+
+---
+
+## Hardware Proof — Tested on BlackBerry Passport Silver Edition (`SQW100-4`)
+
+Flashed and verified directly on physical hardware: clean commercial home screen without developer overlays, OS `10.3.3.3216` running smoothly, and native **FM Radio** fully operational.
+
+| | |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/21105284-633b-4700-8b23-c72e12543594" width="280"> | <img src="https://github.com/user-attachments/assets/b972e270-3083-4335-967a-80bb65be3193" width="280"> |
+| <img src="https://github.com/user-attachments/assets/0e58994f-eaca-4b22-a90b-167851f6fb0d" width="280"> | <img src="https://github.com/user-attachments/assets/f67d818d-1ec4-4c0b-a253-a65b90399766" width="280"> |
+
+---
+
+## Technical Summary
+
+| Parameter | Detail |
+| :--- | :--- |
+| **Supported Models** | BlackBerry Passport (`SQW100-1`) & Silver Edition (`SQW100-4`) |
+| **Hardware Tested** | BlackBerry Passport Silver Edition (`SQW100-4`) — Verified working |
+| **Base Firmware** | Official Retail `10.3.3.3216` (OS + Radio) |
+| **Modification** | Patched `autorun::1` → `autorun::0` in system `navigator/config` node |
+| **Working Features** | Native FM Radio, Wi-Fi, Mobile Data, Bluetooth, BlackBerry Hub, Android Runtime |
+
+---
+
+## How to Flash (Windows)
+
+1. Install **BlackBerry Link** or official **BlackBerry USB Drivers** on your Windows PC.
+2. Extract `BB_Passport_10.3.3.3216_Retail_SetupBypass_by_IkerXD1437.zip`.
+3. **Power off** your BlackBerry Passport completely (hold the top power button until the red LED turns off).
+4. Right-click `Passport_10.3.3.3216_Retail_SetupBypass_by_IkerXD1437.exe` → **Run as administrator**.
+5. Connect the phone directly to a motherboard USB port. The LED will turn **solid green** while flashing.
+6. Once it reaches `100%`, the console will close and the phone will reboot straight to the home screen *(first boot takes 2–4 minutes)*.
+
+---
+
+<div align="center">
+<sub>Built, patched, and hardware-tested on a BlackBerry Passport Silver Edition by <b>IkerXD1437</b></sub>
+</div>
