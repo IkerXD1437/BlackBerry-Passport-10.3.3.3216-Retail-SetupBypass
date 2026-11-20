@@ -25,7 +25,7 @@
 
 ### Required Windows USB Drivers (BlackBerry Link)
 To allow Windows to detect your BlackBerry Passport during flashing, you must have the official BlackBerry USB drivers installed beforehand:
-* **BlackBerry Link `1.2.3.56` (Windows Installer + USB Drivers):** **[Download from MediaFire](https://www.mediafire.com/file/8bulbamaxix6xga/BlackBerry_Link_1.2.3.56_natel-mobiles.com.zip)** *(151.89 MB)*
+* **BlackBerry Link `1.2.3.56` (Windows Installer + USB Drivers):** **[Download from MediaFire](https://www.mediafire.com/file/8bulbamaxix6xga/BlackBerry_Link_1.2.3.56_natel-mobiles.com.zip)** *(natel-mobiles.com)*
 
 ### File Verification (SHA-256)
 * **Archive:** `BB_Passport_10.3.3.3216_Retail_SetupBypass_by_IkerXD1437.zip` *(includes 10-language README)*
