@@ -23,6 +23,10 @@
 | **Mirror 2** | MediaFire | **[Download from MediaFire](https://www.mediafire.com/file/vxiylzttd0b8gpg/BB_Passport_10.3.3.3216_Retail_SetupBypass_by_IkerXD1437.zip/file)** | Fast permanent mirror |
 | **Mirror 3** | Gofile | **[Download from Gofile](https://gofile.io/d/EyridQcY)** | High-speed direct mirror |
 
+### Required Windows USB Drivers (BlackBerry Link)
+To allow Windows to detect your BlackBerry Passport during flashing, you must have the official BlackBerry USB drivers installed beforehand:
+* **BlackBerry Link `1.2.3.56` (Windows Installer + USB Drivers):** **[Download from MediaFire](https://www.mediafire.com/file/8bulbamaxix6xga/BlackBerry_Link_1.2.3.56_natel-mobiles.com.zip)** *(151.89 MB)*
+
 ### File Verification (SHA-256)
 * **Archive:** `BB_Passport_10.3.3.3216_Retail_SetupBypass_by_IkerXD1437.zip` *(includes 10-language README)*
 * **Executable:** `Passport_10.3.3.3216_Retail_SetupBypass_by_IkerXD1437.exe`
@@ -48,24 +52,4 @@ Flashed and verified directly on physical hardware: clean commercial home screen
 | Parameter | Detail |
 | :--- | :--- |
 | **Supported Models** | BlackBerry Passport (`SQW100-1`) & Silver Edition (`SQW100-4`) |
-| **Hardware Tested** | BlackBerry Passport Silver Edition (`SQW100-4`) — Verified working |
-| **Base Firmware** | Official Retail `10.3.3.3216` (OS + Radio) |
-| **Modification** | Patched `autorun::1` → `autorun::0` in system `navigator/config` node |
-| **Working Features** | Native FM Radio, Wi-Fi, Mobile Data, Bluetooth, BlackBerry Hub, Android Runtime |
-
----
-
-## How to Flash (Windows)
-
-1. Install **BlackBerry Link** or official **BlackBerry USB Drivers** on your Windows PC.
-2. Extract `BB_Passport_10.3.3.3216_Retail_SetupBypass_by_IkerXD1437.zip`.
-3. **Power off** your BlackBerry Passport completely (hold the top power button until the red LED turns off).
-4. Right-click `Passport_10.3.3.3216_Retail_SetupBypass_by_IkerXD1437.exe` → **Run as administrator**.
-5. Connect the phone directly to a motherboard USB port. The LED will turn **solid green** while flashing.
-6. Once it reaches `100%`, the console will close and the phone will reboot straight to the home screen *(first boot takes 2–4 minutes)*.
-
----
-
-<div align="center">
-<sub>Built, patched, and hardware-tested on a BlackBerry Passport Silver Edition by <b>IkerXD1437</b></sub>
-</div>
+| **Hardware Tested** | BlackBerry
