@@ -41,7 +41,7 @@ To allow Windows to detect your BlackBerry Passport during flashing, you must ha
 - **Archive:** `BB_Passport_10.3.3.3216_Retail_SetupBypass_Root_VoLTE_by_IkerXD1437.zip` *(includes `Term49.bar`, `volte.zip` & 10-language `README.txt`)*
 - **Executable:** `Passport_10.3.3.3216_SetupBypass_Root_VoLTE_By_IkerXD1437.exe`
 
-    <PEGA_AQUI_EL_SHA256_DEL_NUEVO_EXE>
+    409903D2CA6DECCA5026E2453AF72C827AB039188F960726BA32E81D7B1D1B91
 
 ---
 
