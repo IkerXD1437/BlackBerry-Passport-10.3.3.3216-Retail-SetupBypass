@@ -22,8 +22,8 @@ All files are hosted directly in the **[Releases](https://github.com/IkerXD1437/
 
 | Edition | Package | Location | Notes |
 | :--- | :--- | :--- | :--- |
-| **Standard Edition** *(Clean Stock + Bypass)* | **`BB_Passport_10.3.3.3216_Retail_SetupBypass_by_IkerXD1437.zip`** (`1.88 GB`) | **[GitHub Releases](https://github.com/IkerXD1437/BlackBerry-Passport-10.3.3.3216-Retail-SetupBypass/releases)** | Clean Retail `10.3.3.3216` Autoloader (unrooted) + 10-language offline `README` |
-| **Hybrid Root + VoLTE Edition** *(Power User)* | **`BB_Passport_10.3.3.3216_Retail_SetupBypass_Root_VoLTE_by_IkerXD1437.zip`** | **[GitHub Releases](https://github.com/IkerXD1437/BlackBerry-Passport-10.3.3.3216-Retail-SetupBypass/releases/latest)** | Retail `10.3.3.3216` SetupBypass + **AutoRoot v4 (`u_root`/`su`)** + **OpenSSH** + `Term49.bar` + `volte.zip` + 10-language `README.txt` |
+| **Standard Edition** *(Clean Stock + Bypass)* | **`BB_Passport_10.3.3.3216_Retail_SetupBypass_by_IkerXD1437.zip`** (`1.88 GB`) | **[GitHub Releases](https://github.com/IkerXD1437/BlackBerry-Passport-10.3.3.3216-Retail-SetupBypass/releases/tag/v1.0.0)** | Clean Retail `10.3.3.3216` Autoloader (unrooted) + 10-language offline `README` |
+| **Hybrid Root + VoLTE Edition** *(Power User)* | **`BB_Passport_10.3.3.3216_Retail_SetupBypass_Root_VoLTE_by_IkerXD1437.zip`** | **[GitHub Releases](https://github.com/IkerXD1437/BlackBerry-Passport-10.3.3.3216-Retail-SetupBypass/releases/tag/v2.0.0)** | Retail `10.3.3.3216` SetupBypass + **AutoRoot v4 (`u_root`/`su`)** + **OpenSSH** + `Term49.bar` + `volte.zip` + 10-language `README.txt` |
 
 ### Required Windows USB Drivers (BlackBerry Link)
 To allow Windows to detect your BlackBerry Passport during flashing, you must have the official BlackBerry USB drivers installed beforehand:
